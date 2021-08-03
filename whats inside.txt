@@ -1,4 +1,5 @@
 One line o code
 Two lines of code
 
-This lajn has a typo
+This line has a typo - Typo has been fixed
+Added another line for good measure
